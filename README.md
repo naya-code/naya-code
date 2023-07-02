@@ -2,7 +2,7 @@
 
 ## 👥 Who Are We?
 
-We are [nayacode.com](http://nayacode.com/), an enthusiastic team of 11 developers, each equipped with unique software expertise and capabilities. We've successfully partnered with startups based in Canada and Jamaica over the past 3+ years. Now, we're here to build robust full stack apps for you.
+We are [nayacode.com](http://nayacode.com/), an enthusiastic team of developers, each equipped with unique software expertise and capabilities. We've partnered with startups based in UAE and UK over the past 3+ years.
 
 ## 💡 Why Choose Us?
 
@@ -27,15 +27,37 @@ We are [nayacode.com](http://nayacode.com/), an enthusiastic team of 11 develope
 
 ## 💼 Our Specialties and Tech Stack
 
+### 💻 Front End
+- React
+- Angular
+- Vue
+- Next
 - Flutter
-- MERN Stack (MongoDB, Express.js, React, Node.js)
-- Ruby on Rails
-- Java Spring Boot
-- Elixir
-- Data Science & Machine Learning
-- Software Architecture
 
-Want to build something great together? Get in touch with us!
+### ⚙️ Backend
+- Node, Nest
+- Elixir
+- Laravel
+- Ruby on Rails
+- Spring Boot
+
+### 🔧 DevOps
+- Docker
+- Kubernetes (GKE, EKS)
+- Jenkins
+- GCP & AWS
+- Terraform
+- Git and GitHub Actions
+- CodeMagic
+- CircleCI
+
+### 🗂️ Project Management Tools
+- Jira
+- Trello
+- TeamSnap
+- Slack
+
+Want to build something great together? Get in touch with us at info.nayacode@gmail.com
 
 ---
 
